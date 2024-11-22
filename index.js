@@ -1,4 +1,4 @@
-/*______________________________________________________________________________________________________________________________________________________________________________________________________________________
+//______________________________________________________________________________________________________________________________________________________________________________________________________________________
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
 ─██████████████──██████████──██████──────────██████████████──██████──────────██████──██████████████──██████──────────██████████████──██████──██████──██████████████──████████████████─── 
 ─██░░░░░░░░░░██──██░░░░░░██──██░░██──────────██░░░░░░░░░░██──██░░██████████──██░░██──██░░░░░░░░░░██──██░░██──────────██░░░░░░░░░░██──██░░██──██░░██──██░░░░░░░░░░██──██░░░░░░░░░░░░██─── 
@@ -12,8 +12,8 @@
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+created by riju_editx 🕵
+contact me 919332446037♻️
 © Copy coder alert ⚠
 */
 
@@ -47,7 +47,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['923096287432']
+const ownerNumber = ['917364934516']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -95,24 +95,24 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SILENT-SOBX-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('RIJU<XMD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
+> *➺RIJU<XMD ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs RIJU<XMD❁*
 
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*https://chat.whatsapp.com/GE4qxfBFpy5Bp8ZaBi00Ho*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
+> *❁FOLLOW MY INSTAGRAM ❁*
 
-*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
+*https://www.instagram.com/ofx_riju?igsh=ZHc0cTR6OTgyMTAz*
 
-*╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
+*╭⊱✫🔮 RIJU<XMD🔮✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *RIJU<XMD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
 *│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
-*│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+*│✫➠ - 🌐URL:* *https://github.com/hhhhhxx1/SILENT-SOBX-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
@@ -182,17 +182,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("917364934516")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("917364934516")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("917364934516")){
 if(isReact) return
 m.react("🦋")
 }
@@ -253,7 +253,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-SOBX-MD STARTED ✅");
+res.send("HEY, RIJU<XMD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
