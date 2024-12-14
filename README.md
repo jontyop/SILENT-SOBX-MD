@@ -15,7 +15,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://i.imgur.com/dnUGXGB.jpeg?v=4&backgroundColor=%23ecf0f1&github=hxxxxx1R4&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20RIJU%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20RIJU<xmd%20LOVER%20AND%20SOBIA%20BUTT🐢&image=https://i.imgur.com/dnUGXGB.jpeg?v=4&backgroundColor=%23ecf0f1&github=hxxxxx1R4&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -38,12 +38,12 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/RIJU<xmd/count.svg" /><br>SILENT-SOBX-MD-V2</div>
 
 ------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/dnUGXGB.jpeg'/></a>
+<a><img src='https://i.imgur.com/dnUGXGB.jpeg'/></a>
 
 --------------
 
