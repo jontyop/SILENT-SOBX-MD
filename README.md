@@ -1,11 +1,11 @@
 ---------
 
 ### <br>  ❖ SILENT-SOBX-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY RIJU<xmd 432`** 🔰
 
 ----------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/dnUGXGB.jpeg'/></a>
 
 -------
 
